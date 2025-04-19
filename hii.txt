@@ -1,7 +1,4 @@
 
 
 "hii i am spped byte"
-"hii i am form aonother branchde"
-
-
-"hii i am spped one tere byte"
+"hii i am form aonother branch"
